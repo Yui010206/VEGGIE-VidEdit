@@ -2,8 +2,8 @@
 
 Official implementation of **VEGGIE**, a unified versatile video generative model that handles various tasks for both video concept grounding and editing according to user instructions. 
 
-[Shoubin Yu*](https://yui010206.github.io/), [Difan Liu*](https://difanliu.github.io/), [Ziqiao Ma*](https://mars-tin.github.io/),
-[Yicong Hong](https://yiconghong.me/),[Yang Zhou](https://yzhou359.github.io),[Hao Tan](https://research.adobe.com/person/hao-tan/), [Joyce Chai](https://web.eecs.umich.edu/~chaijy/), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
+[Shoubin Yu*](https://yui010206.github.io/), [Difan Liu*](https://difanliu.github.io/), [Ziqiao Ma*](https://mars-tin.github.io/), 
+[Yicong Hong](https://yiconghong.me/), [Yang Zhou](https://yzhou359.github.io), [Hao Tan](https://research.adobe.com/person/hao-tan/), [Joyce Chai](https://web.eecs.umich.edu/~chaijy/), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
 
 Adobe Research, University of Michigan, University of North Carolina at Chapel Hill
 
