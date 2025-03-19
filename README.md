@@ -84,5 +84,5 @@ Please cite our paper if you use our models in your works:
         title={VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation}, 
         author={Shoubin Yu and Difan Liu and Ziqiao Ma and Yicong Hong and Yang Zhou and Hao Tan and Joyce Chai and Mohit Bansal},
         year={2025},
-        journal={arXiv},
+        journal={arXiv:2503.14350},
 }
