@@ -7,7 +7,7 @@ Official implementation of **VEGGIE**, a unified versatile video generative mode
 
 Adobe Research, University of Michigan, University of North Carolina at Chapel Hill
 
-[![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://veggie-gen.github.io/)  [![arXiv](https://img.shields.io/badge/arXiv-2405.18406-b31b1b.svg)](https://arxiv.org/abs/)   [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace%20-cyan.svg)](https://huggingface.co/datasets/Shoubin/VEGGIE-Bench)
+[![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://veggie-gen.github.io/)  [![arXiv](https://img.shields.io/badge/arXiv-2503.14350-b31b1b.svg)]([https://arxiv.org/abs/](https://arxiv.org/abs/2503.14350))   [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace%20-cyan.svg)](https://huggingface.co/datasets/Shoubin/VEGGIE-Bench)
 
 <br>
 <img width="800" src="assets/teaser.png"/>
