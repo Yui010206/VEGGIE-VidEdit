@@ -1,4 +1,4 @@
-# VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation
+# [ICCV 2025] VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation
 
 Official implementation of **VEGGIE**, a unified versatile video generative model that handles various tasks for both video concept grounding and editing according to user instructions. 
 
