@@ -17,6 +17,11 @@ Adobe Research, University of Michigan, University of North Carolina at Chapel H
 <img width="800" src="assets/method.png"/>
 <br>
 
+# Release Item / Timeline
+- [x] Data Generation Pipeline
+- [ ] VEGGIE Model Training Code
+- [ ] Evaluation Code
+
 
 # Instructional Video Editing Examples
 
